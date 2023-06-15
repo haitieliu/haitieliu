@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student in a master's data science program,<br>I am looking for internships in data science and data analytics,<br>I am now learning Python, R, and SQL.<br>I would love to connect!<br><br>Credit to https://gprm.itsvg.in/
+I am good at Python, R, and SQL.<br>I would love to connect!<br><br>Credit to https://gprm.itsvg.in/
 
 
 # 💻 Tech Stack:
