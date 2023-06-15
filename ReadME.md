@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am good at Python, R, and SQL.<br>I would love to connect!<br><br>Credit to https://gprm.itsvg.in/
+Love to make friends, and connect with people around the world 
 
 
 # 💻 Tech Stack:
